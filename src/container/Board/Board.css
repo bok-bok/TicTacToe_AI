@@ -1,0 +1,16 @@
+body {
+  background: #968c83;
+  color: #fff5ea;
+}
+
+button {
+  border-radius: 2px;
+}
+
+.new {
+  margin-top: 15px;
+  height: 20px;
+  border-radius: 5px;
+  background: #d6d2c4;
+  border: none;
+}
